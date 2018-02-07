@@ -1,4 +1,4 @@
-Dim S As String = ""
+        Dim S As String = ""
         Dim Legnth As Integer = 0
         Dim Final As String = ""
         Dim First As String = ""
