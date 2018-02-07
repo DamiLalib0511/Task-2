@@ -1,4 +1,4 @@
- Dim A As String = ""
+        Dim A As String = ""
         Dim FirstA As String = ""
         Dim LastA As String = ""
         Dim B As String = ""
