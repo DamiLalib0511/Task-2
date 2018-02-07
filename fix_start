@@ -1,4 +1,4 @@
-Dim S As String = ""
+        Dim S As String = ""
         Dim MyChar As Char = ""
         Dim Final As String = ""
         Dim ThisChar As Char = ""
